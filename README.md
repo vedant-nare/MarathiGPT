@@ -1,5 +1,7 @@
 
-# nanoGPT
+# MarathiGPT
+
+This project is based on [nanoGPT](https://github.com/karpathy/nanoGPT), adapted for Marathi/Hindi training.
 
 ![nanoGPT](assets/nanogpt.jpg)
 
